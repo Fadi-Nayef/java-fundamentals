@@ -132,6 +132,4 @@ public static String pluralize (String name,int count){
         }
 System.out.println("It took " + tails + " flips to flip "+ n + " heads in a row");
     }
-
-
 }
